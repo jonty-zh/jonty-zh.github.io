@@ -6,7 +6,16 @@
     <description>Recent content on yuntao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 19 Nov 2022 15:34:14 +0800</lastBuildDate><atom:link href="https://jonty-zh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 15:40:11 +0800</lastBuildDate><atom:link href="https://jonty-zh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dqn</title>
+      <link>https://jonty-zh.github.io/posts/aca/dqn/</link>
+      <pubDate>Sat, 19 Nov 2022 15:40:11 +0800</pubDate>
+      
+      <guid>https://jonty-zh.github.io/posts/aca/dqn/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://jonty-zh.github.io/about/</link>
