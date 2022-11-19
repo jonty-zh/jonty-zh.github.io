@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.zhyuntao.com/sitemap.xml
+Sitemap: https://jonty-zh.github.io/sitemap.xml

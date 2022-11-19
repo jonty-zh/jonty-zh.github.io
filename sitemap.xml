@@ -2,28 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.zhyuntao.com/posts/aca/dqn/</loc>
-    <lastmod>2022-11-19T15:40:11+08:00</lastmod>
-  </url><url>
-    <loc>https://www.zhyuntao.com/</loc>
-    <lastmod>2022-11-19T15:40:11+08:00</lastmod>
-  </url><url>
-    <loc>https://www.zhyuntao.com/posts/</loc>
-    <lastmod>2022-11-19T15:40:11+08:00</lastmod>
-  </url><url>
-    <loc>https://www.zhyuntao.com/posts/aca/</loc>
-    <lastmod>2022-11-19T15:40:11+08:00</lastmod>
-  </url><url>
-    <loc>https://www.zhyuntao.com/about/</loc>
+    <loc>https://jonty-zh.github.io/about/</loc>
     <lastmod>2022-11-19T15:35:19+08:00</lastmod>
   </url><url>
-    <loc>https://www.zhyuntao.com/posts/dev/docker/</loc>
+    <loc>https://jonty-zh.github.io/posts/dev/docker/</loc>
     <lastmod>2022-11-19T15:34:14+08:00</lastmod>
   </url><url>
-    <loc>https://www.zhyuntao.com/categories/</loc>
+    <loc>https://jonty-zh.github.io/</loc>
+    <lastmod>2022-11-19T15:34:14+08:00</lastmod>
   </url><url>
-    <loc>https://www.zhyuntao.com/series/</loc>
+    <loc>https://jonty-zh.github.io/posts/</loc>
+    <lastmod>2022-11-19T15:34:14+08:00</lastmod>
   </url><url>
-    <loc>https://www.zhyuntao.com/tags/</loc>
+    <loc>https://jonty-zh.github.io/categories/</loc>
+  </url><url>
+    <loc>https://jonty-zh.github.io/series/</loc>
+  </url><url>
+    <loc>https://jonty-zh.github.io/tags/</loc>
+  </url><url>
+    <loc>https://jonty-zh.github.io/posts/aca/</loc>
   </url>
 </urlset>
