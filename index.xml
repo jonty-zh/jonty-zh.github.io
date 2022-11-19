@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yuntao&#39;s Blog</title>
+    <link>https://www.zhyuntao.com/</link>
+    <description>Recent content on yuntao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 19 Nov 2022 15:40:11 +0800</lastBuildDate><atom:link href="https://www.zhyuntao.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dqn</title>
+      <link>https://www.zhyuntao.com/posts/aca/dqn/</link>
+      <pubDate>Sat, 19 Nov 2022 15:40:11 +0800</pubDate>
+      
+      <guid>https://www.zhyuntao.com/posts/aca/dqn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.zhyuntao.com/about/</link>
+      <pubDate>Sat, 19 Nov 2022 15:35:19 +0800</pubDate>
+      
+      <guid>https://www.zhyuntao.com/about/</guid>
+      <description>简历</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://www.zhyuntao.com/posts/dev/docker/</link>
+      <pubDate>Sat, 19 Nov 2022 15:34:14 +0800</pubDate>
+      
+      <guid>https://www.zhyuntao.com/posts/dev/docker/</guid>
+      <description>docker</description>
+    </item>
+    
+  </channel>
+</rss>
